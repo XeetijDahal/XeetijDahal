@@ -10,7 +10,9 @@ Feel free to give me any feedback related to my profile 😎</h2>
 
 ###
 
-<div align="center">
+<!-- Social buttons row -->
+<div style="display: flex; justify-content: space-evenly; align-items: center; margin: 20px 0;">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,6 +32,7 @@ Feel free to give me any feedback related to my profile 😎</h2>
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 ###
