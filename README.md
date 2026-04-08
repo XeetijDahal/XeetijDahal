@@ -1,6 +1,6 @@
 <!-- ── Header ─────────────────────────────────────────────────────────── -->
 <h1 align="center">
-  👋 Hi, I’m Kshitij Dahal
+  Hi, I’m Kshitij Dahal
 </h1>
 
 <p align="center">
@@ -29,10 +29,10 @@
 </p>
 
 <!-- ── About me ───────────────────────────────────────────────────────── -->
-## 🚀 About Me
-- 🔭 Currently building with **.NET MAUI / Blazor** and playing with the **NEAPES API**.  
-- 🌱 Learning **ASP.NET Core**, clean architecture and cloud-native patterns.  
-- 📫 How to reach me: **xeetij321@gmail.com**
+## About Me
+- Currently building with **.NET MAUI ** and playing with the **NEAPES API**.  
+- Learning **ASP.NET Core**, clean architecture and cloud-native patterns.  
+- How to reach me: **xeetij321@gmail.com**
 
 <!-- ── Tech Stack ─────────────────────────────────────────────────────── -->
 ## 🛠️ Tech Stack
